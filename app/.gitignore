@@ -1,4 +1,1 @@
-.env
-local.properties
-*.jks
-*.keystore
+/build
