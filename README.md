@@ -1,42 +1,81 @@
 # NeoChem
 
-NeoChem is an Android-based chemistry learning application designed to provide an interactive and accessible learning experience through educational content, practice quizzes, and visual chemistry tools.
+Interactive chemistry learning application for students, featuring structured learning modules, flashcards, laboratory simulations, quizzes, and an interactive periodic table.
 
 ## Features
 
-- Chemistry learning modules
-- Interactive quizzes
-- Flashcards
-- Atom Lab
-- Periodic Table
-- Chemistry Dictionary
-- Progress tracking
+- Learning Modules
+  - Atomic Structure
+  - Periodic Table
+  - Chemical Bonding
+  - Hydrocarbons
+  - Acids & Bases
+  - And more
+
+- Interactive Flashcards
+  - Quick review and concept reinforcement
+
+- Chemistry Laboratory
+  - Atom Lab
+  - Bonding Lab
+  - Hydrocarbon Lab
+  - Interactive molecular visualization
+
+- Periodic Table Explorer
+  - Search elements
+  - Category filtering
+  - Detailed element information
+
+- Achievement System
+  - Learning progress tracking
+  - XP and achievement badges
+
+## Screenshots
+
+### Home Dashboard
+
+![Home](assets/home.png)
+
+### Learning Modules
+
+![Materials](assets/materials.png)
+
+### Interactive Laboratory
+
+![Lab](assets/lab.png)
+
+### Periodic Table Explorer
+
+![Periodic Table](assets/periodic-table.png)
 
 ## Technology Stack
 
 - Kotlin
 - Jetpack Compose
-- Material 3
-- Firebase
 - Room Database
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Material Design 3
 
-## Getting Started
+## Installation
 
-Download the latest APK from the Releases page:
+1. Download the latest APK from the Releases page.
+2. Enable installation from unknown sources.
+3. Install the APK on your Android device.
+4. Launch NeoChem and start learning.
 
-👉 https://github.com/Veiyl16/NeoChem-Beta/releases/latest
+## Download
 
-## Screenshots
+Latest release:
 
-Screenshots will be added in future releases.
+https://github.com/Veiyl16/NeoChem-Beta/releases/latest
 
-## Status
+## Project Status
 
-This project is actively developed and continuously improved with new learning content, UI enhancements, and performance optimizations.
+Active development.
 
-## Author
-
-Veiyl
+Feedback and suggestions are welcome.
 
 ## License
 
