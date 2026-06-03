@@ -1,52 +1,28 @@
 # NeoChem
 
-Interactive chemistry learning application for students, featuring structured learning modules, flashcards, laboratory simulations, quizzes, and an interactive periodic table.
+Interactive chemistry learning application designed to help students understand chemistry concepts through learning modules, flashcards, laboratory simulations, quizzes, and an interactive periodic table.
 
 ## Features
 
-- Learning Modules
-  - Atomic Structure
-  - Periodic Table
-  - Chemical Bonding
-  - Hydrocarbons
-  - Acids & Bases
-  - And more
-
-- Interactive Flashcards
-  - Quick review and concept reinforcement
-
-- Chemistry Laboratory
-  - Atom Lab
-  - Bonding Lab
-  - Hydrocarbon Lab
-  - Interactive molecular visualization
-
-- Periodic Table Explorer
-  - Search elements
-  - Category filtering
-  - Detailed element information
-
-- Achievement System
-  - Learning progress tracking
-  - XP and achievement badges
+- Interactive Learning Modules
+- Chemistry Flashcards
+- Atom & Bonding Laboratory
+- Molecular Visualization
+- Interactive Periodic Table
+- Achievement & Progress Tracking
+- Firebase Cloud Synchronization
 
 ## Screenshots
 
-### Home Dashboard
+<p align="center">
+  <img src="assets/home.jpg" width="220"/>
+  <img src="assets/materials.jpg" width="220"/>
+</p>
 
-![Home](assets/home.jpg)
-
-### Learning Modules
-
-![Materials](assets/materials.jpg)
-
-### Interactive Laboratory
-
-![Lab](assets/lab.jpg)
-
-### Periodic Table Explorer
-
-![Periodic Table](assets/periodic-table.jpg)
+<p align="center">
+  <img src="assets/lab.jpg" width="220"/>
+  <img src="assets/periodic-table.jpg" width="220"/>
+</p>
 
 ## Technology Stack
 
@@ -62,21 +38,15 @@ Interactive chemistry learning application for students, featuring structured le
 
 1. Download the latest APK from the Releases page.
 2. Enable installation from unknown sources.
-3. Install the APK on your Android device.
-4. Launch NeoChem and start learning.
+3. Install the APK.
+4. Launch NeoChem.
 
 ## Download
 
-Latest release:
+Latest APK:
 
 https://github.com/Veiyl16/NeoChem-Beta/releases/latest
 
-## Project Status
-
-Active development.
-
-Feedback and suggestions are welcome.
-
 ## License
 
-This project is intended for educational purposes.
+Educational project.
