@@ -1,21 +1,115 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🧪 NeoChem
 
-# Run and deploy your AI Studio app
+NeoChem adalah aplikasi pembelajaran kimia berbasis Android yang dirancang untuk membantu siswa dan mahasiswa mempelajari konsep-konsep kimia secara interaktif, modern, dan mudah dipahami.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/d2a9f1e0-1c15-40dc-ac70-aece97e4b853
+## ✨ Fitur Utama
 
-## Run Locally
+### 📚 Materi Kimia
+- Materi disusun berdasarkan topik pembelajaran kimia umum.
+- Tampilan modern dan nyaman dibaca.
+- Mendukung mode terang dan gelap.
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+### 🧠 Flashcard Kimia
+- Ratusan kartu belajar kimia.
+- Membantu menghafal istilah, rumus, unsur, dan konsep penting.
+- Sistem belajar cepat dan interaktif.
 
+### ⚛️ Atom Lab
+- Simulasi atom sederhana untuk pemula.
+- Menampilkan proton, neutron, dan elektron secara visual.
+- Membantu memahami struktur atom dengan lebih mudah.
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+### 📝 Kuis Kimia
+- Soal pilihan ganda dengan sistem skor.
+- Evaluasi pemahaman setelah mempelajari materi.
+- Riwayat progres tersimpan otomatis.
+
+### 🔬 Tabel Periodik Interaktif
+- Informasi unsur lengkap.
+- Kategori unsur dan sifat dasar.
+- Tampilan responsif dan mudah digunakan.
+
+### 📖 Kamus Kimia
+- Kumpulan istilah penting dalam kimia.
+- Definisi singkat dan mudah dipahami.
+
+### 🔊 Sound Effect
+- Efek suara ringan untuk meningkatkan pengalaman belajar.
+
+### 📊 Learning Insights
+- Statistik belajar pengguna.
+- Ringkasan aktivitas dan progres pembelajaran.
+
+---
+
+## 🎯 Tujuan Aplikasi
+
+NeoChem dikembangkan untuk:
+
+- Membantu siswa memahami konsep kimia dengan lebih mudah.
+- Menjadikan proses belajar lebih menarik dan interaktif.
+- Menyediakan media pembelajaran yang modern dan ringan.
+- Mendukung pembelajaran mandiri kapan saja dan di mana saja.
+
+---
+
+## 🛠️ Teknologi
+
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Room Database
+- Android SDK
+
+---
+
+## 📱 Persyaratan
+
+- Android 8.0 (API 26) atau lebih baru
+- Koneksi internet untuk sinkronisasi Firebase
+
+---
+
+## 🚀 Instalasi
+
+1. Download file APK pada halaman Release.
+2. Aktifkan izin instalasi dari sumber tidak dikenal.
+3. Instal APK.
+4. Jalankan NeoChem.
+
+---
+
+## 📥 Download
+
+Versi terbaru dapat diunduh melalui halaman Release:
+
+https://github.com/Veiyl16/NeoChem-Beta/releases/latest
+
+---
+
+## 📸 Fitur Pembelajaran
+
+- Materi Kimia Umum
+- Flashcard Kimia
+- Atom Lab
+- Kuis Interaktif
+- Tabel Periodik
+- Kamus Kimia
+- Learning Insights
+
+---
+
+## 👨‍💻 Developer
+
+Developed by Veiyl
+
+---
+
+## 📄 License
+
+This project is developed for educational purposes.
