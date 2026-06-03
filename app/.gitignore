@@ -1,2 +1,5 @@
 google-services.json
-/build
+.env
+*.jks
+*.keystore
+local.properties
