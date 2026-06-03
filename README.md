@@ -49,4 +49,4 @@ https://github.com/Veiyl16/NeoChem-Beta/releases/latest
 
 ## License
 
-Educational project.
+Educational Chemistry project.
