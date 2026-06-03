@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NeoChem</string>
+    <string name="profile_settings_title">Profil &amp; Pengaturan</string>
+    <string name="pilih_bahasa">Pilih Bahasa</string>
+    <string name="bahasa_desc">Ubah bahasa antarmuka aplikasi</string>
+    <string name="theme_title">Pilih Tema Tampilan</string>
+    <string name="theme_desc">Materi &amp; Simulasi kimia direkomendasikan memakai latar terang (default)</string>
+    <string name="sound_effects">Efek Suara (SFX)</string>
+    <string name="sound_effects_desc">Bunyi bip &amp; notifikasi instan aplikasi</string>
+    <string name="ganti_avatar">Ganti Avatar Karakter-mu:</string>
+    <string name="choose_avatar_desc">Pilih avatar belajar kustom kamu di bawah ini</string>
+    <string name="ubah_nama">Ubah Nama</string>
+    <string name="logout">Keluar dari Akun</string>
+    <string name="logout_desc">Menutup sesi login dan kembali ke form masuk</string>
+    <string name="analisis_aktivitas">Analisis Aktivitas</string>
+    <string name="level_belajar">Level Belajar</string>
+    <string name="xp_belajar">XP Belajar</string>
+    <string name="materi_selesai">Materi Selesai</string>
+    <string name="quiz_selesai">Quiz Selesai</string>
+    <string name="simulasi_selesai">Simulasi Selesai</string>
+</resources>

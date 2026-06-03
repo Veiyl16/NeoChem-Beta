@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Molecular N Bonds (Connecting Rods) -->
+    <!-- Left vertical bond -->
+    <path
+        android:pathData="M 32,72 L 32,36"
+        android:strokeWidth="6"
+        android:strokeColor="#5060A5FA"
+        android:strokeLineCap="round" />
+
+    <!-- Diagonal bond -->
+    <path
+        android:pathData="M 32,36 L 76,72"
+        android:strokeWidth="6"
+        android:strokeColor="#502DD4BF"
+        android:strokeLineCap="round" />
+
+    <!-- Right vertical bond -->
+    <path
+        android:pathData="M 76,72 L 76,36"
+        android:strokeWidth="6"
+        android:strokeColor="#50C084FC"
+        android:strokeLineCap="round" />
+
+    <!-- Atom Nodes (Elements of the molecular pattern N) -->
+    <!-- Element A (Blue - Left Bottom) -->
+    <path
+        android:pathData="M 32,72 m -8.5,0 a 8.5,8.5 0 1,1 17,0 a 8.5,8.5 0 1,1 -17,0"
+        android:fillColor="#60A5FA" />
+    <path
+        android:pathData="M 32,72 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Element B (Teal - Left Top) -->
+    <path
+        android:pathData="M 32,36 m -8.5,0 a 8.5,8.5 0 1,1 17,0 a 8.5,8.5 0 1,1 -17,0"
+        android:fillColor="#2DD4BF" />
+    <path
+        android:pathData="M 32,36 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Element C (Purple - Right Bottom) -->
+    <path
+        android:pathData="M 76,72 m -8.5,0 a 8.5,8.5 0 1,1 17,0 a 8.5,8.5 0 1,1 -17,0"
+        android:fillColor="#C084FC" />
+    <path
+        android:pathData="M 76,72 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Element D (Amber - Right Top) -->
+    <path
+        android:pathData="M 76,36 m -8.5,0 a 8.5,8.5 0 1,1 17,0 a 8.5,8.5 0 1,1 -17,0"
+        android:fillColor="#FBBF24" />
+    <path
+        android:pathData="M 76,36 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0"
+        android:fillColor="#FFFFFF" />
+
+</vector>

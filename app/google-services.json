@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447777107690",
+    "firebase_url": "https://neochem-web-default-rtdb.firebaseio.com",
+    "project_id": "neochem-web",
+    "storage_bucket": "neochem-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447777107690:android:0e746af757c65612a9b193",
+        "android_client_info": {
+          "package_name": "Neochem.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447777107690-7r3c80v4o5afeakdn466cbbafqb1te1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Neochem.id",
+            "certificate_hash": "eac727385c268281eb52cf01d5d9d4087571c119"
+          }
+        },
+        {
+          "client_id": "447777107690-3oc1h0941cl4f22bsa17c357p9pphbv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkku7U4WbEhb0Xd0t3r6ttKNiNnT9uXQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447777107690-3oc1h0941cl4f22bsa17c357p9pphbv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
