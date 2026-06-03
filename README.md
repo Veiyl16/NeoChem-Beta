@@ -34,19 +34,19 @@ Interactive chemistry learning application for students, featuring structured le
 
 ### Home Dashboard
 
-![Home](assets/home.png)
+![Home](assets/home.jpg)
 
 ### Learning Modules
 
-![Materials](assets/materials.png)
+![Materials](assets/materials.jpg)
 
 ### Interactive Laboratory
 
-![Lab](assets/lab.png)
+![Lab](assets/lab.jpg)
 
 ### Periodic Table Explorer
 
-![Periodic Table](assets/periodic-table.png)
+![Periodic Table](assets/periodic-table.jpg)
 
 ## Technology Stack
 
