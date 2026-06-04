@@ -45,7 +45,7 @@ Interactive chemistry learning application designed to help students understand 
 
 Latest APK:
 
-https://github.com/mfinjeong/NeoChem-Beta/releases/latest
+https://github.com/mfinjeong/NeoChem/releases/latest
 
 ## License
 
